@@ -117,8 +117,8 @@ module.exports = {
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
-        display: `minimal-ui`
-        icon: `src/images/gatsby.png` // This path is relative to the root of the site.
+        display: `minimal-ui`,
+        icon: `src/images/gatsby-icon.png` // This path is relative to the root of the site.
       }
     },
     `gatsby-plugin-react-helmet`,
