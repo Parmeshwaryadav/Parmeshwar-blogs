@@ -4,11 +4,11 @@ date: "2020-04-22"
 description: You ask What is a cookies ? What is it use for !! in a next few minutes i will tell you how important a cookies is so yeah Let’s dive right in!
 ---
 
-### Have you ever came across a website & the website ask for a cookies permission !
+## Have you ever came across a website & the website ask for a cookies permission !
 
 [cookies popup](https://www.jqueryscript.net/images/GDPR-Cookie-Consent-Popup-Plugin.jpg)
 and if you allow that cookies one file will be saved to your PC, Mac, phone or tablet. It stores the website's name, and also a unique ID that represents you as a user. That way, if you go back to that website again, the website knows you've already been there before.
-#####now that what cookies is...
+**now that's what cookies is...**
 
 ## but now you ask why cookies are use for ?
 

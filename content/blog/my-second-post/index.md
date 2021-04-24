@@ -1,8 +1,10 @@
 ---
-title: My Second Post!
-date: "2015-05-06T23:46:37.121Z"
+title: why Coding Will Be Relevant In The future !!
+date: "2020-04-24"
+description: In this blog section will know how important coding is for anyone & has a great impact on
 ---
 
+##Learning to Code Is A Prime Career Choice
 Wow! I love blogging so much already.
 
 Did you know that "despite its name, salted duck eggs can also be made from
