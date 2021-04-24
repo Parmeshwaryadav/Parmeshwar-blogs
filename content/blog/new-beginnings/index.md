@@ -4,10 +4,10 @@ date: "2020-04-22"
 description: You ask What is a cookies ? What is it use for !! in a next few minutes i will tell you how important a cookies is so yeah keep reading ...
 ---
 
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
+###Have you ever came across a website & the website ask for a cookies permission !
+[cookis popup](https://www.jqueryscript.net/images/GDPR-Cookie-Consent-Popup-Plugin.jpg)
+and if you allow that cookies one file will be saved to your PC, Mac, phone or tablet. It stores the website's name, and also a unique ID that represents you as a user. That way, if you go back to that website again, the website knows you've already been there before.
+#####now that was cookies is...but how
 
 ## On deer horse aboard tritely yikes and much
 
