@@ -1,108 +1,41 @@
 ---
 title: Cookies
 date: "2020-04-22"
-description: You ask What is a cookies ? What is it use for !! in a next few minutes i will tell you how important a cookies is so yeah keep reading ...
+description: You ask What is a cookies ? What is it use for !! in a next few minutes i will tell you how important a cookies is so yeah Let’s dive right in!
 ---
 
-###Have you ever came across a website & the website ask for a cookies permission !
-[cookis popup](https://www.jqueryscript.net/images/GDPR-Cookie-Consent-Popup-Plugin.jpg)
+### Have you ever came across a website & the website ask for a cookies permission !
+
+[cookies popup](https://www.jqueryscript.net/images/GDPR-Cookie-Consent-Popup-Plugin.jpg)
 and if you allow that cookies one file will be saved to your PC, Mac, phone or tablet. It stores the website's name, and also a unique ID that represents you as a user. That way, if you go back to that website again, the website knows you've already been there before.
-#####now that was cookies is...but how
+#####now that what cookies is...
 
-## On deer horse aboard tritely yikes and much
+## but now you ask why cookies are use for ?
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+The simple and most effective answer is to improve your web **browsing experience**
+HyperText Transfer Protocol (HTTP) cookies ensure a seamless web experience, often without the user’s knowledge. However, they also cause some valid privacy concerns, so it’s crucial to have a basic understanding of the concept.
 
-- This however showed weasel
-- Well uncritical so misled
-  - this is very interesting
-- Goodness much until that fluid owl
+## how cookies enhance your browsing experience
 
-When she reached the first hills of the **Italic Mountains**, she had a last
-view back on the skyline of her hometown _Bookmarksgrove_, the headline of
-[Alphabet Village](http://google.com) and the subline of her own road, the Line
-Lane. Pityful a rhetoric question ran over her cheek, then she continued her
-way. On her way she met a copy.
+They help a website recall the choices you made in the past, such as your language preferences, currency, or location. Without these functional cookies, your recurring visits would be frustrating, like returning to the same restaurant with staff who don’t remember you.
 
-### Overlaid the jeepers uselessly much excluding
+## Do Cookies Impact Your Online Privacy ?
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with
-[Longe and Parole](http://google.com) and dragged her into their agency, where
-they abused her for their projects again and again. And if she hasn’t been
-rewritten, then they are still using her.
+**Yes** they Do. if you have allowed the permissions for it so, instance there are many types of cookies which can track your data and give you a personalized adds depending upon your preferances.
+But, there are laws that regulate the use of [third-party cookies](https://www.ionos.com/digitalguide/websites/digital-law/what-do-eu-cookie-laws-mean-for-you/).
 
-> Far far away, behind the word mountains, far from the countries Vokalia and
-> Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-> right at the coast of the Semantics, a large language ocean.
+## How You Can Manage Cookies and Browse Securely.
 
-It is a paradisematic country, in which roasted parts of sentences fly into your
-mouth. Even the all-powerful Pointing has no control about the blind texts it is
-an almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar.
+- don't allow unnecessary cookies
+- Review your browser’s privacy settings
+- Delete unnecessary cookies
+- Browse in private mode
+- Use a proxy server
 
-### According a funnily until pre-set or arrogant well cheerful
+## Conclusion/ summary
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+Browser cookies are essential to any website’s core functionality. They ensure a smooth operation of many features that we take for granted nowadays, such as shopping carts. However, they also cause privacy concerns, which is why you often see a cookie warning before you enter a website.
 
-1.  So baboon this
-2.  Mounted militant weasel gregariously admonishingly straightly hey
-3.  Dear foresaw hungry and much some overhung
-4.  Rash opossum less because less some amid besides yikes jeepers frenetic
-    impassive fruitlessly shut
+Overall, you shouldn’t have anything to worry about regarding the use of cookies. However, if you are concerned, there are plenty of in-browser options to help stop cookie usage. Also, you’re able to explicitly state to websites that you do not want to store cookies, which they have to follow by law.
 
-When she reached the first hills of the Italic Mountains, she had a last view
-back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
-Village and the subline of her own road, the Line Lane. Pityful a rhetoric
-question ran over her cheek, then she continued her way. On her way she met a
-copy.
-
-> The copy warned the Little Blind Text, that where it came from it would have
-> been rewritten a thousand times and everything that was left from its origin
-> would be the word "and" and the Little Blind Text should turn around and
-> return to its own, safe country.
-
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with Longe and Parole
-and dragged her into their agency, where they abused her for their projects
-again and again. And if she hasn’t been rewritten, then they are still using
-her. Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts.
-
-#### Silent delightfully including because before one up barring chameleon
-
-Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-large language ocean. A small river named Duden flows by their place and
-supplies it with the necessary regelialia. It is a paradisematic country, in
-which roasted parts of sentences fly into your mouth.
-
-Even the all-powerful Pointing has no control about the blind texts it is an
-almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox
-advised her not to do so, because there were thousands of bad Commas, wild
-Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.
-
-##### Wherever far wow thus a squirrel raccoon jeez jaguar this from along
-
-She packed her seven versalia, put her initial into the belt and made herself on
-the way. When she reached the first hills of the Italic Mountains, she had a
-last view back on the skyline of her hometown Bookmarksgrove, the headline of
-Alphabet Village and the subline of her own road, the Line Lane. Pityful a
-rhetoric question ran over her cheek, then she continued her way. On her way she
-met a copy.
-
-###### Slapped cozy a that lightheartedly and far
-
-The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word "and" and the Little Blind Text should turn around and return
-to its own, safe country. But nothing the copy said could convince her and so it
-didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
-with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.
+###### Thanks For Reading This Blog ! Hope This Blog Has Added you some Value. :smiley:
