@@ -1,7 +1,7 @@
 ---
-title: 5 Reasons Why You shold Start Coding !
+title: 5 Reasons Why You should Start Coding !
 date: "2020-04-24"
-description: In this blog section will know how important coding is for anyone & has a great impact on
+description: In this blog section will know how important coding is for anyone & has a great impact on....
 ---
 
 ## Coding can boost problem solving and logic skills
