@@ -27,4 +27,4 @@ Yes, coding is a good career because there is opportunity, and much of that oppo
 Coding is here and now. We live in a digital world where software rules everything. Somebody has to write all this software. That’s where Programmers like you comes in.
 If you’re asking whether programming will continue to be crucial, the answer is yes, it will. However, programming automation is coming there are lots of end user Automate websites but its all build by a programmers only
 
-###### Thanks For Reading This Blog ! Hope This Blog Has Added you some Value & Motivated You Enough To Start Coding. :smiley:
+###### Thanks For Reading This Blog ! Hope This Blog Has Added you some Value & Motivated You Enough To Start Coding.😄

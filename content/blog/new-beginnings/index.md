@@ -38,4 +38,4 @@ Browser cookies are essential to any website’s core functionality. They ensure
 
 Overall, you shouldn’t have anything to worry about regarding the use of cookies. However, if you are concerned, there are plenty of in-browser options to help stop cookie usage. Also, you’re able to explicitly state to websites that you do not want to store cookies, which they have to follow by law.
 
-###### Thanks For Reading This Blog ! Hope This Blog Has Added you some Value. :smiley:
+###### Thanks For Reading This Blog ! Hope This Blog Has Added you some Value. 😄
